@@ -44,3 +44,20 @@ O treinamento estará disponível do dia 10/06/2019 ao dia 15/06/2019 e visa a u
 | Sharp | https://github.com/lovell/sharp |
 | Cors | https://github.com/expressjs/cors |
 | Socket.io | https://socket.io/ |
+
+## Dia 3 - Construindo a interface web
+
+- Criação de um frontend web para a aplicação utilizando React.
+
+Comando para criar aplicação React com o Yarn:
+```
+yarn create react-app nome-da-pasta-da-aplicacao
+```
+
+### Recursos adicionais requisitados
+| Recurso | Link |
+| ------- | ---- |
+| Create React App | https://facebook.github.io/create-react-app/ |
+| React Router Dom | https://github.com/ReactTraining/react-router |
+| Axios | https://github.com/axios/axios |
+| Socket.io-Client Api | https://socket.io/docs/client-api/ |
