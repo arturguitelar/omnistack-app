@@ -8,6 +8,7 @@ O treinamento estará disponível do dia 10/06/2019 ao dia 15/06/2019 e visa a u
 - Configuração de ambiente e indicação de ferramentas e configurações.
 
 ### Ferramentas e configurações requisitadas
+
 - Para o ambiente:
 
 | Recurso | Link |
@@ -34,6 +35,7 @@ O treinamento estará disponível do dia 10/06/2019 ao dia 15/06/2019 e visa a u
 - Criação de api rest que será utilziada no frontend com React.
 
 ### Recursos adicionais requisitados
+
 | Recurso | Link |
 | ------- | ---- |
 | Nodemon | https://nodemon.io/ |
@@ -55,6 +57,7 @@ yarn create react-app nome-da-pasta-da-aplicacao
 ```
 
 ### Recursos adicionais requisitados
+
 | Recurso | Link |
 | ------- | ---- |
 | Create React App | https://facebook.github.io/create-react-app/ |
@@ -69,6 +72,7 @@ yarn create react-app nome-da-pasta-da-aplicacao
 [Guia da Rocketseat para configuração do ambiente.](https://docs.rocketseat.dev/)
 
 ### Recursos adicionais requisitados
+
 | Recurso | Comando | Link |
 | ------- | ------- | ---- |
 | React Navigation | react-navigation | https://reactnavigation.org/ |
@@ -92,3 +96,50 @@ Para caso o React tiver problemas com as dependências:
 ```
 react-native start --reset-cache
 ```
+
+## Dia 5 - Funcionalidades avançadas
+
+- Abordagem sobre conhecimentos e ferramentas para auxílio no dia a dia de desenvolvimento.
+
+### Recursos adicionais requisitados
+
+| Recurso | Comando | Link |
+| ------- | ------- | ---- |
+| Eslint | eslint | https://eslint.org/ |
+| Styled Components | styled-components | https://www.styled-components.com/ |
+
+Para configurar o Eslint:
+```
+yarn eslint --init
+```
+
+* Para as configurações do Eslint funcionarem de fato, é preciso ter a extensão instalada no editor.
+
+### Links adicionais da aula
+
+Vídeo > Explicando sobre Styled Components:
+[Link](https://www.youtube.com/watch?v=R3S8DEzEn6s).
+
+Post > Sobre React Hooks:
+[Link](https://blog.rocketseat.com.br/react-hooks/).
+
+Vídeo > React Hooks na prática:
+[Link](https://www.youtube.com/watch?v=6WB16wZS61c).
+
+Post > Como configurar o ORM Sequelize no NodeJS com Express:
+[Link](https://blog.rocketseat.com.br/nodejs-express-sequelize/).
+
+Post > TypeScript: Vantagens, mitos, dicas e conceitos fundamentais:
+[Link](https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/).
+
+Video > TypeScript com NodeJS do jeito certo:
+[Link](https://www.youtube.com/watch?v=aTf8QTjw4RE).
+
+Video > TypeScript com ReactJS, Redux e Redux Saga:
+[Link](https://www.youtube.com/watch?v=OXxul6AvXNs).
+
+Para inspirações de layouts:
+[Dribbble](https://dribbble.com/) [SketchApp Sources](https://www.sketchappsources.com/).
+
+Para prototipar layouts:
+[Figma](https://www.figma.com/).
