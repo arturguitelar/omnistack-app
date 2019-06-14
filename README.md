@@ -61,3 +61,34 @@ yarn create react-app nome-da-pasta-da-aplicacao
 | React Router Dom | https://github.com/ReactTraining/react-router |
 | Axios | https://github.com/axios/axios |
 | Socket.io-Client Api | https://socket.io/docs/client-api/ |
+
+## Dia 4 - Desenvolvendo o app mobile
+
+- Criação de um app mobile utilizando o ReactNative.
+
+[Guia da Rocketseat para configuração do ambiente.](https://docs.rocketseat.dev/)
+
+### Recursos adicionais requisitados
+| Recurso | Comando | Link |
+| ------- | ------- | ---- |
+| React Navigation | react-navigation | https://reactnavigation.org/ |
+| React Native Gesture Handler | react-native-gesture-handler | https://github.com/kmagiera/react-native-gesture-handler |
+| Axios | axios | https://github.com/axios/axios |
+| Socket.io-Client Api | socket.io-client | https://socket.io/docs/client-api/ |
+| React Native Image Picker | react-native-image-picker | https://github.com/react-native-community/react-native-image-picker |
+
+Para buildar o projeto Android
+```
+react-native run-android
+```
+
+Para fazer o link nativo da biblioteca React NAtive Gesture Handler
+```
+react-native link react-native-gesture-handler
+```
+
+Para caso o React tiver problemas com as dependências:
+- No terminal onde está rodando o metro bundler...
+```
+react-native start --reset-cache
+```
